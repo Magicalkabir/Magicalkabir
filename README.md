@@ -1,0 +1,3 @@
+- 👋 Hi, I’m YASHAR
+- 👀 I’m Discord dev
+- 🌱 I’m currently learning js and work on Asuna Anime Bot
